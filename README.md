@@ -9,7 +9,7 @@ Durante minha trajetória, desenvolvi estratégias de atendimento que priorizam 
 
 ## Objetivos
 
-  Hoje estou focado em <strong>Análise de Dados</strong> com SQL Server, Power BI e Python.  Estou confiante em minha capacidade de apreender e contribuir de maneira significativa para qualquer equipe ou projeto, com foco constante na excelência e na consecução de metas estabelecidas.
+  Hoje estou focado em <strong>Análise de Dados</strong> com SQL Server, Power BI e Python.  Estou confiante em minha capacidade de apreender e contribuir de maneira significativa para qualquer equipe ou projeto, com foco constante na excelência e na entrega de metas estabelecidas.
 
 <!--<h2 align="center"> Databases </h2>
 <p align="center">
