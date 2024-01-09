@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá meu nome é André de Melo Jota 👋
 
 <!--
 **amjota/amjota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Repositórios importantes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amjota&repo=SQLQuery)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjota&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amjota&layout=compact&theme=radical)
