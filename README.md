@@ -11,6 +11,32 @@ Durante minha trajetória, desenvolvi estratégias de atendimento que priorizam 
 
   Hoje estou focado em <strong>Análise de Dados</strong> com SQL Server, Power BI e Python.  Estou confiante em minha capacidade de apreender e contribuir de maneira significativa para qualquer equipe ou projeto, com foco constante na excelência e na consecução de metas estabelecidas.
 
+<!--<h2 align="center"> Databases </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
+  </a>
+</p>
+
+## Databases
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+<h2 align="center"> Outros </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
+  </a>
+</p>
+
+
+## Linguagem
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 
 <!--
@@ -28,10 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!--## Repositórios importantes
