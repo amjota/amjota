@@ -2,8 +2,8 @@
 
 ## Apresentação
 
-  Com duas décadas dedicadas a Tecnologia, gerenciei projetos que integravam tecnologia e negócios, fortalecendo a infraestrutura de rede e otimizando sistemas para excelência operacional. Durante minha trajetória sempre valorizei soluções inovadoras, promovendo integrações eficazes em um ambiente de trabalho colaborativo.
-  Na minha rotina profissional, utilizo habilidades avançadas em SQL e Python para extrair, transformar e analisar dados complexos, garantindo a integridade e a confiabilidade das informações. A expertise no Power BI permite a criação de visualizações interativas e relatórios dinâmicos, fornecendo uma compreensão clara dos padrões e tendências presentes nos dados.
+ Com duas décadas dedicadas a Tecnologia, liderei iniciativas que alinham dados e estratégia de negócios, impulsionando decisões baseadas em evidências. Atuei na integração de sistemas e na criação de soluções inovadoras, sempre com foco em eficiência, colaboração e valor estratégico da informação.
+Como Analista de Dados, aplico habilidades avançadas em SQL, utilizando SQL Server Management Studio (SSMS) e SQL Integration Services (SSIS) para desenvolver e otimizar processos de ETL. Tenho experiência com Shell Script para automatização de tarefas e ganho de eficiência operacional. Atuo na extração, transformação e análise de dados complexos, assegurando integridade e confiabilidade das informações. Meu background em suporte a sistemas ERP complementa a compreensão dos processos de negócios, permitindo soluções orientadas à tomada de decisão. Utilizo o Power BI para traduzir dados em insights estratégicos por meio de dashboards interativos e relatórios dinâmicos.
 
 ## Objetivos
 
